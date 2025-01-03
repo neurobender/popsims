@@ -51,4 +51,4 @@ The population dynamics are defined with a expanded *Hardy-Weinberg Equilibrium*
 
 **r_move**             : Radius of available locations for an offspring. Introduces "resource limit".
 
-N_gen              : Generations for repeated runs.
+**N_gen**              : Generations for repeated runs.
