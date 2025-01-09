@@ -394,7 +394,7 @@ def run_population(key):
         gens = np.arange(0, generations+1, 1).tolist()
 
         plt.figure
-        plt.plot(gens,gm['n_alive'],'k')
+        plt.plot(gens,gm['number of alive cells'],'k')
         plt.xlabel('Generations')
         plt.ylabel('Population Size')
         plt.legend()
